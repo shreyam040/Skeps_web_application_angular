@@ -1,0 +1,58 @@
+<style>
+    .my-flex-container{
+      height:50px;
+      border:1px solid grey;
+      margin-bottom:20px green;
+      
+    }
+    #brand-image
+    {
+      height:44px;
+      padding:4px;
+      
+    }
+    .btn{
+      height:35px;
+      border:3px lightgray;
+    }
+  #brand-image1
+  {
+    height:44px;
+  }
+
+  #brand-image2
+  {
+    height:35px;
+  }
+  </style>
+  <div class="container"></div>
+  <div class="d-flex bd-highlight my-flex-container">
+      
+      <img id="brand-image" alt="website logo"
+      src="https://image.pitchbook.com/DV0xzvyo5rnijMgJ3by2eaatIEf1555330429702_200x200?uq=foSxwz92/"/>
+      <div class="pl-0 pr-2 py-2 flex-grow-1 bd-highlight br-1"><h5>Skeps</h5></div>
+      
+  <button class="btn btn-light p-1 pr-0 mr-2 b-0 my-2 my-sm-2" type="submit"><i class="fas fa-bell"></i></button>
+  <span class="border border-right-0 pr-1"></span>
+          <div class="dropdown">
+              <div class= "dropdown-toggle pt-2 pb-1" data-toggle="dropdown"><img id="brand-image2" alt="website logo"
+                src="https://media.glassdoor.com/sqll/404453/beats-electronics-squarelogo-1384774435267.png" class="rounded-circle" alt="Cinque Terre">
+                  <span class="caret"></span></div>
+                  <ul class="dropdown-menu dropdown-menu-right p-1 m-1"
+                  >
+                    
+                    <div class="row">
+                    
+                      <div class="col-md-6 col-xs-5 ">
+                        <img id ="brand-image1" alt="website logo"
+                        src="https://media.glassdoor.com/sqll/404453/beats-electronics-squarelogo-1384774435267.png" class="rounded-circle" alt="Cinque Terre"><h6>Prakhar</h6>
+                      </div>
+                    </div>
+  <li><a href="">content manager</a></li>
+  <div class="dropdown-divider"></div>
+                    
+                    <li><a href="">prakhar@skeps.com</a></li>
+                    
+                  </ul>       
+                </div>
+    </div>

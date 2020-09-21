@@ -1,0 +1,44 @@
+<style>
+  #brand-image {
+    height: 44px;
+  }
+</style>
+
+<nav class="navbar navbar-light bg-light p-0 ml-auto">
+  <div class="container p-0 m-0 ml-auto">
+    <div class="col align-self-start pl-0">
+      <img id="brand-image" alt="website logo"
+      src="https://image.pitchbook.com/DV0xzvyo5rnijMgJ3by2eaatIEf1555330429702_200x200?uq=foSxwz92/"/>
+       
+       <a href="https://www.skeps.com/home" class="navbar-brand">Skeps</a>
+      
+    </div>
+  </div>
+
+  
+  <div class="col-auto mr-auto"></div>
+  
+  <ul class="navbar-nav p-1">
+    <li class="nav-item">
+      <a href="#" class="nav-link p-0">Model manager</a>
+    </li>
+    <div class="dropdown">
+        <div class= "dropdown-toggle" data-toggle="dropdown">prakhar aggarwal
+        <span class="caret"></span></div>
+        <ul class="dropdown-menu dropdown-menu-right"
+        >
+          <li><a href="#">profile</a></li>
+          <div class="dropdown-divider"></div>
+          <li><a href="#">Logout</a></li>
+        </ul>
+        
+      
+        
+      </div>
+
+    
+
+      
+    
+  </ul>
+</nav>
