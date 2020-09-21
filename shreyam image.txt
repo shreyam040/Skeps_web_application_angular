@@ -1,0 +1,2 @@
+ <div class="bd-highlight pl-3 pt-3 pb-3 pr-2 border-right-0 "><img id ="brand-image1" alt="website logo"
+                src="https://media.glassdoor.com/sqll/404453/beats-electronics-squarelogo-1384774435267.png" class="rounded-circle" alt="Cinque Terre"></div>
